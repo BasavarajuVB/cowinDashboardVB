@@ -1,0 +1,57 @@
+/* Write your CSS here */
+.app-container {
+  background-color: #161625;
+  min-height: 100vh;
+  padding: 10px;
+}
+.responsive-container {
+  width: 85%;
+  margin: auto;
+}
+.loader {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.failure-view-container {
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.website-logo {
+  height: 20px;
+}
+.website-logo-name-con {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+.website-name {
+  font-family: 'roboto';
+  font-size: 16px;
+  color: #2cc6c6;
+}
+.description {
+  font-family: 'roboto';
+  color: #cbd5e1;
+  font-size: 17px;
+  margin-bottom: 20px;
+}
+.failure-img {
+  height: 240px;
+}
+.failure-heading {
+  font-family: 'bree serif';
+  color: #fff;
+  font-size: 26px;
+}
+.chart-container {
+  background-color: #1c1c2b;
+  padding: 8px;
+  margin: 10px;
+  margin-left: 0;
+}
